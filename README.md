@@ -1,7 +1,7 @@
 # Specifications / Infrastructure Information / Prerequisite
 
-- npm
-- node
+- npm latest version as possible
+- node latest version as possible
 - npx
 
 # Setup
